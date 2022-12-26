@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Imane 
-- 🌱 Python - Racket 
+- 🌱 Python - Racket - (a little) HTML CSS
+- Currently trying to get better at programming and learning different technologies while having some fun in the process 
 - I’m looking to collaborate on projects that would be valuable practice.
 
 <!---
