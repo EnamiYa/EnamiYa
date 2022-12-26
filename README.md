@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EnamiYa and I am 18
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects that would be valuable practice.
+- 👋 Hi, I’m Imane 
+- 🌱 Python - Racket 
+- I’m looking to collaborate on projects that would be valuable practice.
 
 <!---
 EnamiYa/EnamiYa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
