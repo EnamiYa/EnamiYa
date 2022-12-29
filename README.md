@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 	</tr>
 </table>
 -->
-# I am Imane Yacoubi. Welcome to my Github profile 😃
+# I am Imane Yacoubi. Welcome to my Github profile!
 # 📃 About me
 - 🎓  Computer Science Student at the University of Waterloo, class of 2027
 - 👧 She/Her 
