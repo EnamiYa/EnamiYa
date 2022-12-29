@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 - Become an _entrepreneur_. Still waiting for the "aha" moment...
 
 # 📫 To reach me
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 or on Linkedin 
+You can reach me on Linkedin 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow EnamiYa on LinkedIn" title="Follow EnamiYa on LinkedIn"/>](https://www.linkedin.com/in/iyacoubi/)
 
