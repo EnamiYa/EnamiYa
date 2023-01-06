@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 - 🔉 My first name is prounounced _Imen_
 
 # 🔨 What I am up to
-- Doing some Python projects for practice: 
-	* Slot Machine using random module 
-	* Typing Speed Test (WPM) 
+- Studying...
 - Working on adding an alarm clock project that has been forever sitting on my local machine to my ~~empty~~ GitHub
 - Looking for a Co-op position as a Python Junior Dev from May to August inclusive (~~please hire me if you can~~)
 
