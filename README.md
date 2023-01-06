@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 # 🎯 Future goals
 - Move to South Korea
 - Learn Spanish 
-- Become an _entrepreneur_. Still waiting for the "aha" moment...
 
 # 📫 To reach me
 You can reach me on Linkedin 
