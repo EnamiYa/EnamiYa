@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 
 # 🔨 What I am up to
 - Studying...
+- Building a personal website
 - Working on adding an alarm clock project that has been forever sitting on my local machine to my ~~empty~~ GitHub
-- Looking for a Co-op position as a Python Junior Dev from May to August inclusive (~~please hire me if you can~~)
+- Looking for a Co-op position as a Junior Software Engineer from May to August inclusive (~~please hire me if you can~~)
 
 # 🎯 Future goals
 - Move to South Korea
