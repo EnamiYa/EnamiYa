@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 # 🔨 What I am up to
 - Studying...
 - Building a personal website
-- Working on document my Eur-e-clock project 
+- Working on documenting my Eur-e-clock project 
 - Looking for a Co-op position as a Junior Software Engineer from May to August inclusive (~~please hire me if you can~~)
 
 # 🎯 Future goals
