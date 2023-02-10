@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 # 🎯 Future goals
 - Move to South Korea
-- Learn Spanish 
+- Learn Chinese 
 
 # 📫 To reach me
 If you want to connect, you can reach me on Linkedin 
