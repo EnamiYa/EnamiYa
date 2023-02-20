@@ -36,23 +36,33 @@ Here are some ideas to get you started:
 	</tr>
 </table>
 -->
-# I am Imane Yacoubi. Welcome to my Github profile!
+# Imane here :D Welcome to my Github profile!
 # 📃 About me
-- 🎓  Computer Science Student at the University of Waterloo, class of 2027
-- 👧 She/Her 
-- 🔉 My first name is prounounced _Imen_
+* 🎓  Computer Science Student at the University of Waterloo, class of 2027
+* 🔭 I’m currently working on a personal website
+* 🌱 I’m currently learning Javascript
+* 🤝 Looking for Summer 2023 SWE internships (~~please hire me if you can~~)
+* 📫 Reach me at:  imaneyacoubi73@gmail.com or <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
-# 🔨 What I am up to
-- Studying...
-- Building a personal website
-- Working on documenting my Eur-e-clock project 
-- Looking for a Co-op position as a Junior Software Engineer from May to August inclusive (~~please hire me if you can~~)
+# 🔨 Languages & Tools
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=enamiya&layout=compact"/> 
 
-# 🎯 Future goals
-- Move to South Korea
-- Learn Chinese 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconspython/python-original.svg"/>
 
-# 📫 To reach me
-If you want to connect, you can reach me on Linkedin 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow EnamiYa on LinkedIn" title="Follow EnamiYa on LinkedIn"/>](https://www.linkedin.com/in/iyacoubi/)
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img height=50s rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+
+          
+
 
