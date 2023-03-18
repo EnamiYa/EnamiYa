@@ -13,7 +13,7 @@
 * 🎓  Computer Science Student at the University of Waterloo, class of 2027
 * 🔭 I’m currently working on a personal website
 * 🌱 I’m currently learning how to design RESTFUL APIs
-* 🤝 Looking for Summer 2023 SWE internships (~~please hire me if you can~~)
+* 🤝 Looking for Winter 2024 SWE internships (~~please hire me if you can~~)
 * 📫 Reach me at:  imaneyacoubi73@gmail.com or <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 
 
