@@ -8,8 +8,11 @@
 
 <h1 align="center"><b>Hi , I'm Imane Yacoubi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<!-- OPTIONAL ABOUT SECTION PIC -->
+<!--  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+ -->
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+##  **About me**
 * 🎓  Computer Science Student at the University of Waterloo, class of 2027
 * 🔭 I’m currently working on a personal website
 * 🌱 I’m learning how to design RESTFUL APIs
