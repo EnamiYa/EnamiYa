@@ -19,7 +19,7 @@
 * 🔭 I’m currently working on a personal website
 * 🌱 I’m learning SQL
 * 🤝 Looking for Winter 2024 SWE internships (~~please hire me if you can~~)
-* 📫 Reach me at:  imaneyacoubi73@gmail.com or <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+* 📫 Reach me at:  imaneyacoubi73@gmail.com or <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> I would love us to connect!
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Languages & Tools</b>
