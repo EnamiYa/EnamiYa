@@ -17,7 +17,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 * 🎓  Computer Science Student at the University of Waterloo, class of 2027
 * 🔭 I’m currently working on a personal website
-* 🌱 I’m learning SQL
+* 🌱 I’m learning React
 * 🤝 Looking for Winter 2024 SWE internships (~~please hire me if you can~~)
 * 📫 Reach me at:  imaneyacoubi73@gmail.com or <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> I would love us to connect!
 
