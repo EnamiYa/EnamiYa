@@ -1,13 +1,13 @@
 ### Hello World 👋
 It's a pleasure to see you here! I am Imane, a second-year Computer Science student at the University of Waterloo. I am passionate about developing software that benefits communities and improves our lives.
 
-* 🔭 I’m currently working on a personal website
-* 🌱 I’m learning React
-* 🔍 I am interested in modern Web technologies (Web Assembly, PWAs, Hybrid apps) and AI/ML
-* 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>
+* 🔭 I’m currently working on a personal website.
+* 🌱 I’m learning React.
+* 🔍 I am interested in modern Web technologies (Web Assembly, PWAs, Hybrid apps) and AI/ML.
+* 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>.
 <p align="center">
   <strong>
-     Looking for Winter 2024 SWE internships!
+     Looking for Winter/Summer 2024 Software Engineering internships!
   </strong>
 </p>
 
