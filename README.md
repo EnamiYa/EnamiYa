@@ -4,10 +4,13 @@
 ### Hello World 👋
 It's a pleasure to see you here! I am Imane, a second-year Computer Science student at the University of Waterloo. I am passionate about developing software that benefits communities and improves people's lives.
 
-* 🔭 I’m currently working on a personal website.
-* 🌱 I’m learning React.
-* 🔍 I am interested in modern Web technologies (Web Assembly, PWAs, Hybrid apps) and AI/ML.
-* 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>.
+* 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/Imane_Yacoubi_Resume.pdf">professional experience</a> working as a Software Engineer at Huawei.
+* 🔭 I’m currently working on a personal website (coming up soon).
+* 🌱 I’m learning React, how to live simply, and how to make the best ramen (reach out if you have a good recipe!).
+* 🔍 I am interested in modern Web technologies (Web Assembly, PWAs, Hybrid apps), Blockchain, and AI/ML.
+* ✨ Things I like: Javascript - <a href="https://upload.wikimedia.org/wikipedia/commons/5/59/Monet_-_Impression%2C_Sunrise.jpg">Impression, Sunrise</a> - <a href="https://en.wikipedia.org/wiki/Couscous">Couscous</a> - Yoga
+* 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>. I would love to connect with you!
+  
 <p align="center">
   <strong>
      Looking for Winter/Summer 2024 Software Engineering internships!
