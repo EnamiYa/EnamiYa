@@ -18,7 +18,7 @@ Welcome, it's a pleasure to have you here! I am Imane, a second-year Computer Sc
 </p>
 
 ### Languages & Tools
-[![My Skills](https://skills.thijs.gg/icons?i=nodejs,js,html,css,c,cpp,react,py,git,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs,js,html,css,c,cpp,py,react,git,figma)](https://skills.thijs.gg)
  
 
 <!-- RESOURCES
