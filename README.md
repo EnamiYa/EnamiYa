@@ -13,7 +13,7 @@ Welcome, it's a pleasure to have you here! I am Imane, a second-year Computer Sc
   
 <p align="center">
   <strong>
-     Looking for Winter/Summer 2024 Software Engineering internships!
+     Looking for Summer 2024 Software Engineering internships!
   </strong>
 </p>
 
