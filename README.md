@@ -4,7 +4,7 @@
 ### Hello World 👋
 Welcome, it's a pleasure to have you here! I am Imane, a second-year Computer Science student at the University of Waterloo. I am passionate about developing software that benefits communities and improves people's lives.
 
-* 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/Imane_Yacoubi_Resume.pdf">professional experience</a> working as a Software Engineering Intern at Huawei.
+* 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/resume.pdf">professional experience</a> working as a Software Engineering Intern at Huawei.
 * 🔍 I enjoy backend development a lot, and have recently been interested in Game Development and Systems Programming.
 * ✨ Things I like: C++ - <a href="https://upload.wikimedia.org/wikipedia/commons/5/59/Monet_-_Impression%2C_Sunrise.jpg">Impression, Sunrise</a> - <a href="https://en.wikipedia.org/wiki/Couscous">Couscous</a> - Yoga
 * 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>. I would love to connect with you!
