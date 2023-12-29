@@ -4,10 +4,8 @@
 ### Hello World 👋
 Welcome, it's a pleasure to have you here! I am Imane, a second-year Computer Science student at the University of Waterloo. I am passionate about developing software that benefits communities and improves people's lives.
 
-* 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/Imane_Yacoubi_Resume.pdf">professional experience</a> working as a Software Engineer at Huawei.
-* 🔭 I’m currently working on a personal website (coming up soon).
-* 🌱 I’m learning web dev, how to live simply, and how to make the best ramen (reach out if you have a good recipe!).
-* 🔍 I am interested in modern Web technologies (Web Assembly, PWAs, Hybrid apps), AI/ML and Blockchain.
+* 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/Imane_Yacoubi_Resume.pdf">professional experience</a> working as a Software Engineering Intern at Huawei.
+* 🔍 I enjoy backend development a lot, and have recently been interested in Game Development and Systems Programming.
 * ✨ Things I like: C++ - <a href="https://upload.wikimedia.org/wikipedia/commons/5/59/Monet_-_Impression%2C_Sunrise.jpg">Impression, Sunrise</a> - <a href="https://en.wikipedia.org/wiki/Couscous">Couscous</a> - Yoga
 * 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>. I would love to connect with you!
   
@@ -18,8 +16,9 @@ Welcome, it's a pleasure to have you here! I am Imane, a second-year Computer Sc
 </p>
 
 ### Languages & Tools
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,nodejs,js,py,html,css,react,git,figma)](https://skills.thijs.gg)
- 
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,nodejs,js,py,html,css,git)](https://skills.thijs.gg)
+
+ <!-- * 🔭 I’m currently working on a personal website (coming up soon).
 
 <!-- RESOURCES
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enamiya&layout=compact"/>	
