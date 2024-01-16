@@ -6,7 +6,7 @@ I am Imane (she/her) currently in my second-year of Computer Science at the Univ
 
 * 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/IMANE_YACOUBI_RESUME.pdf">professional experience</a> working as a Software Engineering Intern at Huawei.
 * 🔍 I enjoy backend development a lot, and have recently developed an interested in Systems Programming and Game Development.
-* ✨ Things I like: C++ - Art - Yoga - Travel
+* ✨ Things I like: C++ - Art - Yoga - Poker - Travel
 * 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>. I would love to connect with you!
   
 <p align="center">
