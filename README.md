@@ -5,7 +5,7 @@
 I am Imane (she/her) currently in my second-year of Computer Science at the University of Waterloo. I am passionate about developing software that benefits communities and improves people's lives.
 
 * 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/IMANE_YACOUBI_RESUME.pdf">professional experience</a> working as a Software Engineering Intern at Huawei
-* 🔍 I enjoy backend development a lot, and have recently developed an interested in Systems Programming and Game Development
+* 🔍 I enjoy backend development, and have developed an interested in Systems Programming and Game Dev
 * ✨ Things I like: C++, Yoga, Poker
 * 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>
   
