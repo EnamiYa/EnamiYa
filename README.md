@@ -1,7 +1,7 @@
 
 ![](https://github.com/EnamiYa/EnamiYa/blob/main/japanese%20temple.gif)
 
-### Welcome! It's a pleasure to have you here ^^
+### Welcome!
 I am Imane (she/her) currently in my second-year of Computer Science at the University of Waterloo. I am passionate about developing software that benefits communities and improves people's lives.
 
 * 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/IMANE_YACOUBI_RESUME.pdf">professional experience</a> working as a Software Engineering Intern at Huawei.
