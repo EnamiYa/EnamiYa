@@ -3,10 +3,9 @@
 
 ### Hello!
 I am Imane (she/her)
-* In my second-year of Computer Science at the University of Waterloo.
+* 🎓 In my second-year of Computer Science at the University of Waterloo.
 * 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/Imane_Resume.pdf">professional experience</a> working as a SWE Intern at Huawei
 * 🔍 I enjoy backend development, and have developed an interested in Systems Programming
-* ✨ I also like playing poker and practicing yoga
 * 📫 Reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>
   
 <p align="center">
