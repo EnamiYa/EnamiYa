@@ -1,17 +1,17 @@
 
 ![](https://github.com/EnamiYa/EnamiYa/blob/main/japanese%20temple.gif)
 
-### Hello and Welcome!
-I am Imane (she/her) currently in my second-year of Computer Science at the University of Waterloo.
-
+### Hello!
+I am Imane (she/her)
+* In my second-year of Computer Science at the University of Waterloo.
 * 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/Imane_Resume.pdf">professional experience</a> working as a SWE Intern at Huawei
-* 🔍 I enjoy backend development, and have developed an interested in Systems Programming and Game Dev
-* ✨ Other Things I like: C++, Yoga, Poker ...
-* 📫 Feel free to reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>
+* 🔍 I enjoy backend development, and have developed an interested in Systems Programming
+* ✨ I also like playing poker and practicing yoga
+* 📫 Reach out on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>
   
 <p align="center">
   <strong>
-     Looking for Summer 2024 SWE internships!
+     Looking for summer/fall 2024 SWE internships
   </strong>
 </p>
 
