@@ -1,5 +1,4 @@
 
-![](https://github.com/EnamiYa/EnamiYa/blob/main/japanese%20temple.gif)
 
 ### Hello! I am Imane (she/her)
 
@@ -20,6 +19,8 @@
  <!-- * 🔭 I’m currently working on a personal website (coming up soon).
 
 <!-- RESOURCES
+![](https://github.com/EnamiYa/EnamiYa/blob/main/japanese%20temple.gif)
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enamiya&layout=compact"/>	
  
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" />
