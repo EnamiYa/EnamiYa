@@ -1,8 +1,8 @@
 
 ![](https://github.com/EnamiYa/EnamiYa/blob/main/japanese%20temple.gif)
 
-### Hello!
-I am Imane (she/her)
+### Hello! I am Imane (she/her)
+
 * 🎓 In my second year of CS at the University of Waterloo
 * 💼 I have <a href="https://github.com/EnamiYa/Resume/blob/main/resume.pdf">experience</a> working as a SWE Intern at Huawei
 * 🔍 I enjoy backend development, and am interested in Systems Programming
