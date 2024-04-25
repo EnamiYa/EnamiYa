@@ -9,7 +9,7 @@
   
 <p align="center">
   <strong>
-     Looking for summer/fall 2024 SWE internships
+     Looking for SWE internships!
   </strong>
 </p>
 
