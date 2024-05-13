@@ -1,5 +1,3 @@
-
-
 ### Hello! I am Imane (she/her)
 
 * 🎓 In my second year of CS at the University of Waterloo
@@ -14,9 +12,7 @@
 </p>
 
 ### Languages & Tools
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,nodejs,js,py,html,css,git)](https://skills.thijs.gg)
-
- <!-- * 🔭 I’m currently working on a personal website (coming up soon).
+C++ / C / Javascript / Python / HTML / CSS
 
 <!-- RESOURCES
 ![](https://github.com/EnamiYa/EnamiYa/blob/main/japanese%20temple.gif)
