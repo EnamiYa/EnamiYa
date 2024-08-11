@@ -5,8 +5,7 @@
 * 👀 I enjoy backend development, Yoga and Poker
 * 📫 Reach me on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a> :)
   
-<p align="center">
+
   <strong>
      Looking for SWE internships!
   </strong>
-</p>
