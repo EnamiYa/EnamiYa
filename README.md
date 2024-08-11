@@ -1,4 +1,4 @@
-### Hello! I am Imane (she/her) :-D
+### Hello! I am Imane (she/her)
 
 * 🎓 In my third year of CS at the University of Waterloo
 * 💻 I am now interning as a SWE at <a href="https://www.maxon.net/en/">Maxon</a>
