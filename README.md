@@ -1,11 +1,10 @@
-* Hi, I’m Imane (she/her)
-* I am in 3rd year of CS at UWaterloo
-* I have SWE experience at <a href="https://www.microsoft.com/ca/">Microsoft</a>, <a href="https://www.huawei.com/ca/">Huawei</a> and <a href="https://www.maxon.net/en/">Maxon</a> - check out my <a href="https://github.com/EnamiYa/Resume/blob/main/imane_yacoubi.pdf">resume</a>
-* I enjoy Backend Development, Yoga and Poker
-* 📫 Feel free to connect with me on <a href="https://www.linkedin.com/in/iyacoubi/" >Linkedin</a>
-  <br>
-  <br>
-  
-  <strong>
-     Looking for SWE internships!
-  </strong>
+### Hi, I'm Imane (she/her) :)
+
+I'm a 3rd-year Computer Science undergrad at the University of Waterloo with software engineering experience at [Microsoft](https://www.microsoft.com/ca/), [Huawei](https://www.huawei.com/ca/), and [Maxon](https://www.maxon.net/en/). Check out my [resume](https://github.com/EnamiYa/Resume/blob/main/imane_yacoubi.pdf) for more details!
+
+In my free time, I enjoy Yoga, Poker and Go Karting
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/iyacoubi/)!
+<br>
+
+💼 **Seeking Software Engineering internships!**
