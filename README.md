@@ -1,11 +1,12 @@
-### Hi, I'm Imane (she/her) :)
+### Hello! I'm Imane (she/her)
 
-I'm a 4th-year Computer Science undergrad at the University of Waterloo with software engineering experience at Microsoft, Maxon, and Huawei. 
+I'm a Computer Science senior @ University of Waterloo with software engineering experience at Microsoft, Maxon, and Huawei (received a return offer each time). 
+
 Check out my [resume](https://github.com/EnamiYa/Resume/blob/main/imane_yacoubi_resume.pdf) for more details!
 
-In my free time, I enjoy Yoga, Poker and Kayaking
+Outside Tech, some of my other interests are Psychology and Art.
 
-📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/iyacoubi/)!
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/iyacoubi/)!
 <br>
 
-💼 **Seeking Software Engineering internships!**
+**→ Seeking 2027 New Grad & 2026 internship opportunities!**
