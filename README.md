@@ -4,7 +4,7 @@ I'm a Computer Science senior @ University of Waterloo with software engineering
 
 Check out my [resume](https://github.com/EnamiYa/Resume/blob/main/imane_yacoubi_resume.pdf) for more details!
 
-Outside Tech, some of my other interests are Psychology and Art.
+Outside Tech, some of my other interests are Psychology and exploring global cultures.
 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/iyacoubi/)!
 <br>
