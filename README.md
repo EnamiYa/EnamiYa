@@ -1,13 +1,11 @@
 ### Hello! I'm Imane (she/her)
-
 CS senior @ University of Waterloo, incoming SWE @ NVIDIA this fall
-Previously: Confluent · Microsoft · Maxon · Huawei — return offer at every internship
-
-Check out my [resume](https://github.com/EnamiYa/Resume/blob/main/imane_yacoubi_resume.pdf) for more details!
+<br>
+Previously: Confluent · Microsoft · Maxon · Huawei — received a return offer at every internship
 
 Outside Tech, I am into Psychology.
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/iyacoubi/)
+📄 [Resume](https://github.com/EnamiYa/Resume/blob/main/imane_yacoubi_resume.pdf) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/iyacoubi/)
 <br>
 
-**→ Seeking 2027 New Grad opportunities!**
+**Seeking 2027 New Grad opportunities!**
