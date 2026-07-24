@@ -1,7 +1,7 @@
 ### Hello! I'm Imane (she/her)
 CS senior @ University of Waterloo, incoming SWE @ NVIDIA this fall
 <br>
-Previously: Confluent · Microsoft · Maxon · Huawei — received a return offer at every internship
+Previously: Confluent · Microsoft · Maxon · Huawei — received a return offer every time
 
 Outside Tech, I am into Psychology.
 
